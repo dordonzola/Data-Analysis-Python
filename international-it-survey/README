@@ -1,0 +1,35 @@
+International IT Survey Analysis
+
+
+📊 Description
+
+Exploratory analysis of an international IT survey dataset.
+The goal of this project was to analyze demographics, experience levels, salaries, and job-related trends among IT professionals across different countries.
+
+🔍 Key questions
+
+- How do salaries differ by country and experience level?
+- What technologies and roles are most common?
+- Is there a relationship between experience and income?
+- How does education level affect career outcomes?
+
+🛠 Tools & technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+📈 What I did
+
+- Data cleaning and handling missing values
+- Exploratory data analysis (EDA)
+- Visualization of salary distributions and trends
+- Interpretation of survey results
+
+🧠 Key takeaways
+
+- Salary strongly correlates with experience level
+- Significant differences exist between countries
+- Some technologies and roles dominate the IT job market
