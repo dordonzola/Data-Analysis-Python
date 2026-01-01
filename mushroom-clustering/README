@@ -1,0 +1,41 @@
+# Mushroom Clustering Analysis
+## 📊 Description
+
+This project focuses on clustering analysis of a mushroom dataset.
+The goal was to identify natural groupings in the data and explore whether mushrooms can be grouped based on their features.
+
+## 🔍 Key questions
+
+-Can mushrooms be grouped into meaningful clusters?
+-Which features contribute most to cluster separation?
+-How well do unsupervised learning methods perform on this dataset?
+
+## 🛠 Tools & technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## 📈 What I did
+
+- Data preprocessing and encoding categorical variables
+- Feature scaling
+- Clustering using unsupervised learning algorithms
+- Visualization of clusters
+
+## 🧠 Key takeaways
+
+- Clustering revealed clear structure in the dataset
+- Feature selection and preprocessing had a strong impact on results
+- Unsupervised learning can uncover hidden patterns without labels
+
+
+## 🚀 Next steps
+
+-Apply additional clustering algorithms and compare results
+-Add statistical validation of findings
+-Improve visual consistency and storytelling
+-Extend projects with new datasets or advanced models
