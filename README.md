@@ -1,8 +1,5 @@
 # 📊 Python Data Analysis Projects
 
-```md
-# 📊 Python Data Analysis Projects
-
 This repository contains **selected data analysis projects** created during my studies  
 in applied computer science and social data analysis.
 
